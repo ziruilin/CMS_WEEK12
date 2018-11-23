@@ -50,10 +50,12 @@
   font-size:10px;
   text-align:left;
 }
-._文本段落 {
+.label {
+  font-size:14px;
   text-align:left;
 }
-.arrow {
+._文本段落 {
+  text-align:left;
 }
 ._流程形状 {
 }
