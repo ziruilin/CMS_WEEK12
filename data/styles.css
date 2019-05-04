@@ -69,6 +69,8 @@
 }
 .line {
 }
+.arrow {
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -76,6 +78,8 @@
 .droplist {
   color:#000000;
   text-align:left;
+}
+._流程形状 {
 }
 ._连接线 {
 }
