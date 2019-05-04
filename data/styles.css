@@ -7,7 +7,17 @@
   text-align:center;
   line-height:normal;
 }
-._图片_ {
+.box_1 {
+}
+.box_2 {
+}
+.box_3 {
+}
+.ellipse {
+}
+.image {
+}
+.placeholder {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -50,46 +60,16 @@
   font-size:10px;
   text-align:left;
 }
-._文本段落 {
-  text-align:left;
-}
-._流程形状 {
-}
-._连接线 {
-}
-.box_3 {
-}
-.ellipse {
-}
-._默认样式 {
-}
-._跳转-移入 {
-  color:#1ABC9C;
-}
-.icon {
-}
-.line {
-}
-.arrow {
-}
-.box_1 {
-}
-.box_2 {
-}
 .label {
   font-size:14px;
   text-align:left;
 }
-._图片 {
-  color:#000000;
-}
-._表格 {
-}
-.text_field {
-  color:#000000;
+._文本段落 {
   text-align:left;
 }
-.text_area {
+.line {
+}
+.text_field {
   color:#000000;
   text-align:left;
 }
@@ -97,22 +77,13 @@
   color:#000000;
   text-align:left;
 }
-.checkbox {
+._连接线 {
+}
+.sticky_1 {
   text-align:left;
 }
-.link_button {
-  color:#169BD5;
+._图片 {
+  color:#000000;
 }
-.flow_shape {
-}
-.image {
-}
-._文本链接 {
-  color:#0000FF;
-}
-._鼠标悬停文本链接时 {
-}
-._鼠标按下文本链接时 {
-}
-._图片1 {
+.icon {
 }
